@@ -39,3 +39,7 @@ To check your domains without changing anything:
 - A transfer adds one year to your current expiry date, so moving early doesn't waste time you've already paid for. Leave GoDaddy auto-renew on until the move finishes.
 - Once the domain moves, Cloudflare locks it against moving again for 60 days.
 - If the domain has email, Claude copies every DNS record and waits 24 hours on Cloudflare DNS before moving the registration.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
