@@ -14,7 +14,7 @@ Claude works through both dashboards in your Chrome and checks each step against
 ## Install
 
 ```bash
-git clone <this repo> ~/src/godaddy-to-cloudflare
+git clone https://github.com/pavelnovel/godaddy-to-cloudflare.git ~/src/godaddy-to-cloudflare
 ln -s ~/src/godaddy-to-cloudflare/skills/godaddy-to-cloudflare ~/.claude/skills/godaddy-to-cloudflare
 ```
 
